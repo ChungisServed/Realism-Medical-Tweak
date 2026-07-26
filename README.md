@@ -1,2 +1,23 @@
 # Realism-Medical-Tweak
 Intends to add a practical use for unpopular items along with much more
+
+Note: Keep your backups and this note safe so you can revert back to vanilla Realism settings when you want to
+
+Installation:
+1). Open "MedTweak"
+2). Navigate to Spt_Data -> Server -> database -> locales -> global
+3). Create a backup for original 3.11 SPT en.json and put it somewhere safe. I didn't include a backup for this
+because I do not have one.
+4). Place the modded version of en.json into "global"
+
+1). Open "MedTweak"
+2). Navigate to user -> mods -> SPT-Realism -> db -> items
+3). Create a backup for buffs.json , buffs_stims.json , med_items.json and put it somewhere safe
+4). Place the modded version of buffs.json , buffs_stims.json , med_items.json into "items"
+
+1). Open "MedTweak"
+2). Navigate to user -> mods -> SPT-Realism -> db -> templates -> consumables
+3). Create a backup for meds.json and put it somewhere safe
+4). Place the modded version of meds.json into "consumables"
+
+For your convenience, comes with a vanilla version of the files in case something happens to your backup.
